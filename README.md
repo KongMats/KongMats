@@ -1,1 +1,1 @@
-[<img src="https://raw.githubusercontent.com/KongMats/KongMats/master/mats-profile-banner.gif"]
+[<img src="https://raw.githubusercontent.com/KongMats/KongMats/master/mats-profile-banner.gif"/>]
